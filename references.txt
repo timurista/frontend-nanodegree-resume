@@ -1,0 +1,8 @@
+A list of websites, books, forums, blog posts, Github repositories etc. referred to or used in this submission
+
+a) https://www.udacity.com/ Udacity course HTML basics
+b) http://stackoverflow.com/ questions on adding margins between bootstrap columns and decreasing internal line-spacing
+c) https://github.com/udacity/frontend-nanodegree-resume
+for front-end material
+
+
